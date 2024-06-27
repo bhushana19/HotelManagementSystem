@@ -4,9 +4,9 @@ A GUI application built using Python's Tkinter library for managing restaurant o
 
 # Features
 
-1.Calculator: Includes a built-in calculator for easy arithmetic operations related to billing.
-2.Order Management: Allows the user to input quantities of various menu items and calculates the total cost including taxes and service charges.
-3.Price List: Displays a price list for menu items in a separate window.
+1.Calculator: Includes a built-in calculator for easy arithmetic operations related to billing.<br/>
+2.Order Management: Allows the user to input quantities of various menu items and calculates the total cost including taxes and service charges.<br/>
+3.Price List: Displays a price list for menu items in a separate window.<br/>
 
 # Requirements
 
